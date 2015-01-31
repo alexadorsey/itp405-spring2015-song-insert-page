@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+  font-size: 14pt;
+}
+
+.box {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.box form {
+  padding-top: 30px;
+  font-size: 14pt;
+}
+
+.box form span {
+  padding:10px;
+}
+.search-button {
+  border: none;
+  background-color: transparent;
+}
+
+.search-button:hover {
+  color:gray;
+}
+
+button{
+  border:none;
+  background-color: transparent;
+}
+
+select {
+  padding: 5px;
+}
+
+.result {
+  padding-top: 50px;
+}
